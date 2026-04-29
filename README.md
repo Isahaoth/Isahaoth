@@ -19,4 +19,4 @@ hobbies:
 "crocheting",
 }
 ```
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Isahaoth=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isahaoth)](https://github.com/anuraghazra/github-readme-stats)
